@@ -1,0 +1,1 @@
+%HOST_DC% %* -Iapath prog.d samepathmodule.d apath\barmodule.d apath\foopackage\foomodule.d apath\foopackage\foomodule2.d importer.d apath\doubleimportmodule.d

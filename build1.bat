@@ -1,0 +1,1 @@
+%HOST_DC% %* -ci -Iapath prog.d
